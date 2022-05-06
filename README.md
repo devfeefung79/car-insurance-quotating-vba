@@ -21,7 +21,6 @@ The information filled will be recorded in the second sheet, customer can save t
 4. Agree the Terms and Conditions to start
 
 5. Fill infomation in the pop-up form window
-
 ![image](https://user-images.githubusercontent.com/70851914/167207945-f3ef0d4b-1f1e-4eaa-8da3-fa6c47c47092.png)
 
 6. Select Cover Plan
